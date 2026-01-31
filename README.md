@@ -1,0 +1,1 @@
+# Go string comparison benchmarks
